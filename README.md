@@ -14,7 +14,7 @@
 
 ## 项目说明
 此仓库为docker环境部署文件  
-具体微服务实现代码可以[参考此处](https://gitee.com/bestHeCC/mall)。
+具体微服务实现代码可以[参考此处](https://github.com/bestHeCC/microservices-by-go-zero)。
 
 ## 使用
 ### 1. 按需修改 .env 配置
